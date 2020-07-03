@@ -1,7 +1,6 @@
 <?php
-
+//nome do arquivo selecionado
 $arquivo = file("texto.txt");
-
 $quantidade = count(file("texto.txt"));
 
 
